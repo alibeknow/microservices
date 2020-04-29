@@ -1,0 +1,3 @@
+include:
+  - project: 'sys-umg/umg-devops'
+    file: 'generic-nodejs-template.yaml'
